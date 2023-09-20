@@ -3,7 +3,14 @@ body{
     background-color: white;
     font-style: normal;
     font-weight: 400;
+    line-height: normal;
+    color: black;
 }
 button{
     cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
+.car2>p{
+    color: gray;
 }
